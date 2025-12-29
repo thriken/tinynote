@@ -56,7 +56,7 @@ $dao = new DataAccess('localhost', 'root', '你的密码', 'test');
 ### 4. 访问应用
 在浏览器中访问：
 ```
-http://localhost/tinynote/
+http://localhost/
 ```
 
 ## 🎯 功能说明
